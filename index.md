@@ -4,8 +4,8 @@
 
 ### 项目
 
-[Scratch Maker](/scratchmaker/)
+[Scratch Maker](/ScratchMaker/index.html)
 
-[植物大战僵尸模组版](/plantvszonmod/)
+[植物大战僵尸模组版](/plantvszonmod/index.html)
 
 [再见极域(下载)](/byebyemythware.exe)
